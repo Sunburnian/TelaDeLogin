@@ -1,0 +1,25 @@
+@charset "UTF - 8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/*id's*/
+#conteiner{
+    display: flex;
+    height: 96vh;
+    background-image: linear-gradient(to right ,#c850c0,#4158d0);
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+
+}
+#conteiner-login{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    padding: 25px;
+    border-radius: 10px;
+}
